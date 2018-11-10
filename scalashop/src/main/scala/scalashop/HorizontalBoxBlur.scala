@@ -56,9 +56,10 @@ object HorizontalBoxBlur {
    *  rows.
    */
   def parBlur(src: Img, dst: Img, numTasks: Int, radius: Int): Unit = {
-    val splits = 0 until src.height by src.height/Math.min(numTasks, src.height)
-    val tuples = splits.tail zip splits
-    val tasks = tuples.map{case (end, from) => task(blur(src, dst, from, end, radius))}
+    val distance = src.height/Math.min(numTasks, src.height)
+    val splits = 0 until src.height by distance
+    // val tuples = splits.tail zip splits
+    val tasks = splits.map{ from => task(blur(src, dst, from, from + distance, radius))}
     tasks foreach(x => x.join())
   }
 

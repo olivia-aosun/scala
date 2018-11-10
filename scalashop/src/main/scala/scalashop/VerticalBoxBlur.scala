@@ -57,9 +57,10 @@ object VerticalBoxBlur {
    *  columns.
    */
   def parBlur(src: Img, dst: Img, numTasks: Int, radius: Int): Unit = {
-    val splits = 0 until src.width by src.width/Math.min(numTasks, src.width)
-    val tuples = splits.tail zip splits
-    val tasks = tuples.map{case (end, from) => task(blur(src, dst, from, end, radius))}
+    val distance = src.width/Math.min(numTasks, src.width)
+    val splits = 0 until src.width by distance
+    // val tuples = splits.tail zip splits
+    val tasks = splits.map{from => task(blur(src, dst, from, from + distance, radius))}
     tasks foreach(x => x.join())
   }
 
