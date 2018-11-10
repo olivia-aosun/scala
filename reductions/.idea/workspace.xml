@@ -3,57 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="aa8a114f-cf9a-453a-938f-be3a6f4a2d58" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/reductions/LineOfSight.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/reductions/LineOfSight.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/reductions/LineOfSight$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/reductions/LineOfSight$.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/default/scalashop-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/default/scalashop-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/default/scalashop-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/default/scalashop-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-docs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-sources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scalashop-build-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/src/main/scala/scalashop/VerticalBoxBlur.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/src/main/scala/scalashop/VerticalBoxBlur.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/target/scala-2.11/classes/scalashop/HorizontalBoxBlur$$anonfun$3$$anonfun$apply$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/target/scala-2.11/classes/scalashop/HorizontalBoxBlur$$anonfun$3$$anonfun$apply$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/target/scala-2.11/classes/scalashop/HorizontalBoxBlur$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/target/scala-2.11/classes/scalashop/HorizontalBoxBlur$$anonfun$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/target/scala-2.11/classes/scalashop/HorizontalBoxBlur$$anonfun$parBlur$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/target/scala-2.11/classes/scalashop/HorizontalBoxBlur$$anonfun$parBlur$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/target/scala-2.11/classes/scalashop/HorizontalBoxBlur$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/target/scala-2.11/classes/scalashop/HorizontalBoxBlur$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/target/scala-2.11/classes/scalashop/VerticalBoxBlur$$anonfun$3$$anonfun$apply$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/target/scala-2.11/classes/scalashop/VerticalBoxBlur$$anonfun$3$$anonfun$apply$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/target/scala-2.11/classes/scalashop/VerticalBoxBlur$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/target/scala-2.11/classes/scalashop/VerticalBoxBlur$$anonfun$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/target/scala-2.11/classes/scalashop/VerticalBoxBlur$$anonfun$parBlur$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/target/scala-2.11/classes/scalashop/VerticalBoxBlur$$anonfun$parBlur$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/target/scala-2.11/classes/scalashop/VerticalBoxBlur$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/target/scala-2.11/classes/scalashop/VerticalBoxBlur$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/target/streams/test/definedTests/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/target/streams/test/definedTests/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/target/streams/test/test/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/target/streams/test/test/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/target/streams/test/test/$global/streams/succeeded_tests" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/target/streams/test/test/$global/streams/succeeded_tests" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scalashop/target/test-reports/scalashop.BlurSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scalashop/target/test-reports/scalashop.BlurSuite.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -73,6 +26,7 @@
     <session id="62909039">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -90,12 +44,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="scala" value="3055" />
-          <entry key="txt" value="40" />
+          <entry key="txt" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="40" />
+          <entry key="PLAIN_TEXT" value="56" />
           <entry key="Scala" value="3055" />
         </counts>
       </usages-collector>
@@ -298,7 +252,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541809061095</updated>
-      <workItem from="1541809065411" duration="13354000" />
+      <workItem from="1541809065411" duration="13397000" />
     </task>
     <task id="LOCAL-00001" summary="first completion">
       <created>1541823422248</created>
@@ -307,11 +261,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541823422249</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bug fix - 9/10">
+      <created>1541826426360</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541826426360</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13354000" />
+    <option name="totallyTimeSpent" value="13397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="23" width="1260" height="765" extended-state="0" />
@@ -357,7 +318,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first completion" />
-    <option name="LAST_COMMIT_MESSAGE" value="first completion" />
+    <MESSAGE value="bug fix - 9/10" />
+    <option name="LAST_COMMIT_MESSAGE" value="bug fix - 9/10" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/scala/reductions/ParallelParenthesesBalancingSuite.scala">
