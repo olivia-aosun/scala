@@ -51,7 +51,7 @@ object ParallelCountChange {
       else if (coins.isEmpty || money < 0) 0
       else countChangeHelper(money, coins.tail) + countChangeHelper(money - coins.head, coins)
     }
-    if (money == 0) 0 else countChangeHelper(money, coins)
+    countChangeHelper(money, coins)
   }
 
   type Threshold = (Int, List[Int]) => Boolean

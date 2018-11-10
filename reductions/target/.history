@@ -1,2 +1,9 @@
  runMain reductions.ParallelCountChangeRunner
 runMain reductions.ParallelCountChangeRunner
+runMain reductions.ParallelParenthesesBalancingRunner
+test
+runMain reductions.ParallelParenthesesBalancingRunner
+runMain reductions.LineOfSightRunner
+test
+submit aosun@seas.upenn.edu 
+submit aosun@seas.upenn.edu v4x3tVkqC5MgnWIR
