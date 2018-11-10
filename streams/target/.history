@@ -1,0 +1,5 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/ny/cy41l6sn1qd9h27gz_8brn0c0000gn/T/sbt-structure.xml; session clear-all
+all {file:/Users/olivia_aosun/Desktop/FP/scala/streams/}root/products {file:/Users/olivia_aosun/Desktop/FP/scala/streams/}root/test:products
+test
+submit aosun@seas.upenn.edu n4U0A5lDGJcWuFdJ
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/ny/cy41l6sn1qd9h27gz_8brn0c0000gn/T/sbt-structure.xml; session clear-all

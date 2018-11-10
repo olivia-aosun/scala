@@ -1,4 +1,4 @@
-[info] Updating {file:/Users/olivia_aosun/Desktop/FP/forcomp/project/}forcomp-build...
+[info] Updating {file:/Users/olivia_aosun/Desktop/FP/scala/forcomp/project/}forcomp-build...
 [debug] :: resolving dependencies :: default#forcomp-build;0.1-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
@@ -11518,19 +11518,19 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.7!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 27744ms :: artifacts dl 558ms
-[debug] 	report for default#forcomp-build;0.1-SNAPSHOT compile produced in /Users/olivia_aosun/Desktop/FP/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-compile.xml
-[debug] 	report for default#forcomp-build;0.1-SNAPSHOT runtime produced in /Users/olivia_aosun/Desktop/FP/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-runtime.xml
-[debug] 	report for default#forcomp-build;0.1-SNAPSHOT test produced in /Users/olivia_aosun/Desktop/FP/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-test.xml
-[debug] 	report for default#forcomp-build;0.1-SNAPSHOT provided produced in /Users/olivia_aosun/Desktop/FP/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-provided.xml
-[debug] 	report for default#forcomp-build;0.1-SNAPSHOT optional produced in /Users/olivia_aosun/Desktop/FP/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-optional.xml
-[debug] 	report for default#forcomp-build;0.1-SNAPSHOT compile-internal produced in /Users/olivia_aosun/Desktop/FP/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-compile-internal.xml
-[debug] 	report for default#forcomp-build;0.1-SNAPSHOT runtime-internal produced in /Users/olivia_aosun/Desktop/FP/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-runtime-internal.xml
-[debug] 	report for default#forcomp-build;0.1-SNAPSHOT test-internal produced in /Users/olivia_aosun/Desktop/FP/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-test-internal.xml
-[debug] 	report for default#forcomp-build;0.1-SNAPSHOT plugin produced in /Users/olivia_aosun/Desktop/FP/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-plugin.xml
-[debug] 	report for default#forcomp-build;0.1-SNAPSHOT sources produced in /Users/olivia_aosun/Desktop/FP/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-sources.xml
-[debug] 	report for default#forcomp-build;0.1-SNAPSHOT docs produced in /Users/olivia_aosun/Desktop/FP/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-docs.xml
-[debug] 	report for default#forcomp-build;0.1-SNAPSHOT pom produced in /Users/olivia_aosun/Desktop/FP/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-pom.xml
-[debug] 	report for default#forcomp-build;0.1-SNAPSHOT scala-tool produced in /Users/olivia_aosun/Desktop/FP/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-scala-tool.xml
-[debug] 	resolve done (27744ms resolve - 558ms download)
+[debug] :: resolution report :: resolve 8342ms :: artifacts dl 101ms
+[debug] 	report for default#forcomp-build;0.1-SNAPSHOT compile produced in /Users/olivia_aosun/Desktop/FP/scala/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-compile.xml
+[debug] 	report for default#forcomp-build;0.1-SNAPSHOT runtime produced in /Users/olivia_aosun/Desktop/FP/scala/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-runtime.xml
+[debug] 	report for default#forcomp-build;0.1-SNAPSHOT test produced in /Users/olivia_aosun/Desktop/FP/scala/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-test.xml
+[debug] 	report for default#forcomp-build;0.1-SNAPSHOT provided produced in /Users/olivia_aosun/Desktop/FP/scala/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-provided.xml
+[debug] 	report for default#forcomp-build;0.1-SNAPSHOT optional produced in /Users/olivia_aosun/Desktop/FP/scala/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-optional.xml
+[debug] 	report for default#forcomp-build;0.1-SNAPSHOT compile-internal produced in /Users/olivia_aosun/Desktop/FP/scala/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-compile-internal.xml
+[debug] 	report for default#forcomp-build;0.1-SNAPSHOT runtime-internal produced in /Users/olivia_aosun/Desktop/FP/scala/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-runtime-internal.xml
+[debug] 	report for default#forcomp-build;0.1-SNAPSHOT test-internal produced in /Users/olivia_aosun/Desktop/FP/scala/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-test-internal.xml
+[debug] 	report for default#forcomp-build;0.1-SNAPSHOT plugin produced in /Users/olivia_aosun/Desktop/FP/scala/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-plugin.xml
+[debug] 	report for default#forcomp-build;0.1-SNAPSHOT sources produced in /Users/olivia_aosun/Desktop/FP/scala/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-sources.xml
+[debug] 	report for default#forcomp-build;0.1-SNAPSHOT docs produced in /Users/olivia_aosun/Desktop/FP/scala/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-docs.xml
+[debug] 	report for default#forcomp-build;0.1-SNAPSHOT pom produced in /Users/olivia_aosun/Desktop/FP/scala/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-pom.xml
+[debug] 	report for default#forcomp-build;0.1-SNAPSHOT scala-tool produced in /Users/olivia_aosun/Desktop/FP/scala/forcomp/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-forcomp-build-scala-tool.xml
+[debug] 	resolve done (8342ms resolve - 101ms download)
 [info] Done updating.
